@@ -1,0 +1,17 @@
+# Ignore Data Cache
+data/raw/*.csv
+data/*.json
+data/paper_portfolio.json
+
+# Ignore Python Cache
+__pycache__/
+*.pyc
+
+# Ignore Logs and Reports
+reports/
+*.log
+
+# Ignore IDE settings
+.vscode/
+.idea/
+.DS_Store
